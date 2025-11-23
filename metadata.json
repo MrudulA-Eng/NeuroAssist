@@ -1,0 +1,7 @@
+{
+  "name": "Neuro Assist",
+  "description": "An integrated, simple, and highly customizable web application combining daily routine planning with expressive communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
